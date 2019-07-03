@@ -7,7 +7,7 @@
 
 
 
-![](/home/pxq/博客/自定义View/TextSeekBar.gif)
+![image](https://github.com/drkingwater/TextSeekBar/blob/master/gif/TextSeekBar.gif)
 
 ## 使用
 
