@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.pxq.myapplication.widget.TextSeekBar
+        android:id="@+id/seek_bar"
+        android:layout_width="300dp"
+        android:layout_height="10dp"
+        android:layout_centerInParent="true"
+        app:progressDrawable="@drawable/progress_drawable"
+        app:thumb="@drawable/thumb"
+        app:thumbHeight="20dp"
+        app:thumbWidth="20dp"
+        app:textBackground="@drawable/text_bg"
+        app:textBgHeight="30dp"
+        app:textBgWidth="60dp"
+        app:textSize="16sp"
+        app:textPaddingTop="10dp"/>
+
+
+</RelativeLayout>

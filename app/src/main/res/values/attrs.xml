@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TextSeekBar">
+        <attr name="thumb" format="reference"/>
+        <attr name="thumbWidth" format="dimension"/>
+        <attr name="thumbHeight" format="dimension"/>
+        <attr name="progressDrawable" format="reference"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="textColor" format="color"/>
+        <attr name="textBackground" format="reference"/>
+        <attr name="textBgWidth" format="dimension"/>
+        <attr name="textBgHeight" format="dimension"/>
+        <attr name="textPaddingTop" format="dimension"/>
+
+    </declare-styleable>
+</resources>
